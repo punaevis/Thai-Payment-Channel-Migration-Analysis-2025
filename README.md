@@ -20,8 +20,8 @@ After processing 6 years of transaction data, the analysis reveals:
 
 ## 📷 Visualization
 *The exponential increase in digital cmparing to traditional.*
-![Payment Trend Chart](<img width="920" height="449" alt="Screenshot 2568-11-19 at 7 44 58 PM" src="https://github.com/user-attachments/assets/e3bc08bf-d821-4b7e-ab9b-fa55b81ccc3e" />
-)
+![Payment Trend Chart]([<img width="920" height="449" alt="Screenshot 2568-11-19 at 7 44 58 PM" src="https://github.com/user-attachments/assets/e3bc08bf-d821-4b7e-ab9b-fa55b81ccc3e" />
+](https://github.com/punaevis/Thai-Payment-Channel-Migration-Analysis-2025/blob/a18198144a6b29b25b59f915f4cb91d4a1ee013f/payment_migration_final.png))
 
 *The dual-axis chart below highlights the divergence between digital adoption and traditional infrastructure usage.*
 
@@ -38,5 +38,7 @@ After processing 6 years of transaction data, the analysis reveals:
 ```bash
 ├── README.md           # Project documentation
 ├── payment_data.csv    # Raw dataset (cleaned format)
-└── analysis.py         # Main Python script for data processing & plotting
+├── analysis.py         # Main Python script for data processing & plotting
+├── payment_migration_final.png # Exponential graph comparison
+└── payment_dual_axis_migration_final.png # Dual axis graph
 

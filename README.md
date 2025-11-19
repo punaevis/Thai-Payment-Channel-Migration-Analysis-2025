@@ -25,8 +25,7 @@ After processing 6 years of transaction data, the analysis reveals:
 
 *The dual-axis chart below highlights the divergence between digital adoption and traditional infrastructure usage.*
 
-![Payment Trend Chart](<img width="909" height="444" alt="Screenshot 2568-11-19 at 7 45 29 PM" src="https://github.com/user-attachments/assets/07ff5aaf-1eaf-4b19-a00a-a350819ee0e6" />
-)
+![Payment Trend Chart](https://github.com/punaevis/Thai-Payment-Channel-Migration-Analysis-2025/blob/04ab94874efecf8a48261c14c48a80c786135bc6/payment_dual_axis_migration_final.png)
 
 ## 🛠️ Technologies Used
 - **Language:** Python 3

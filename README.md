@@ -25,11 +25,11 @@ After processing 6 years of transaction data, the analysis reveals:
 *(Note: If the image doesn't load, please check the `payment_migration_dual_axis_final.png` file in the repository)*
 
 ## 🛠️ Technologies Used
-- **Language:** Python 3.x
+- **Language:** Python 3
 - **Libraries:**
   - `pandas` (Data cleaning, aggregation, and statistical calculation)
   - `matplotlib` & `seaborn` (Advanced dual-axis visualization)
-- **Data Source:** Bank of Thailand (BOT) - Report Table 681
+- **Data Source:** Bank of Thailand (BOT) - PS_PT_002 Volume of Payment Transactions processed through Payment Systems and Channels
 
 ## 📂 Repository Structure
 ```bash

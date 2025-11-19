@@ -19,10 +19,14 @@ After processing 6 years of transaction data, the analysis reveals:
 - **❌ The Crossover:** The trends display a clear inverse correlation ("X-Shape"), marking the definitive transition era of the Thai financial landscape.
 
 ## 📷 Visualization
+*The exponential increase in digital cmparing to traditional.*
+![Payment Trend Chart](<img width="920" height="449" alt="Screenshot 2568-11-19 at 7 44 58 PM" src="https://github.com/user-attachments/assets/e3bc08bf-d821-4b7e-ab9b-fa55b81ccc3e" />
+)
+
 *The dual-axis chart below highlights the divergence between digital adoption and traditional infrastructure usage.*
 
-![Payment Trend Chart](payment_migration_dual_axis_final.png)
-*(Note: If the image doesn't load, please check the `payment_migration_dual_axis_final.png` file in the repository)*
+![Payment Trend Chart](<img width="909" height="444" alt="Screenshot 2568-11-19 at 7 45 29 PM" src="https://github.com/user-attachments/assets/07ff5aaf-1eaf-4b19-a00a-a350819ee0e6" />
+)
 
 ## 🛠️ Technologies Used
 - **Language:** Python 3
@@ -33,7 +37,7 @@ After processing 6 years of transaction data, the analysis reveals:
 
 ## 📂 Repository Structure
 ```bash
-├── analysis.py         # Main Python script for data processing & plotting
+├── README.md           # Project documentation
 ├── payment_data.csv    # Raw dataset (cleaned format)
-├── payment_migration_dual_axis_final.png  # Output visualization image
-└── README.md           # Project documentation
+└── analysis.py         # Main Python script for data processing & plotting
+
